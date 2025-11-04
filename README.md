@@ -21,6 +21,8 @@ Det är främst repetition:
 
 Nu ska du utöka funktionen för väskan, du kan hitta på något eget eller göra någon av följande.
 * Ta bort grejjer, list metoder.
+ * Kan du ta bort genom att skriva namnet på en sak? använd "in"
+ * Skriver du ut en lista med alla saker med nummer och sedan väljer du ett nummer för att ta bort?
 * Det ser lite trist ut, emojois? (win + .)
   * Färger? https://www.geeksforgeeks.org/python/print-colors-python-terminal/
 *  Max antal, det kan vara 10 st eller att alla items har en vikt (weight limit)
