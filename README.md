@@ -1,0 +1,27 @@
+# En övning för programmering 1
+
+Skapa en påse, ett inventory eller en "väska" att hålla saker i.
+
+Vi kollar på sträng metoder, tex. lower() sidan 94 i boken.
+
+Vi kollar på list metoder, se sidan 110 i boken.
+
+## Material
+
+Du har grunden som vi kodat tillsammans här i repot, app.py.
+Använd den, läs igenom och se till att du förstår koden.
+Det är främst repetition:
+* spara, variabler och värden
+* välja, if sats för att hantera menyn
+* upprepa
+  * while för huvudloopen, eftersom vi inte vet antalet gånger vi ska upprepa
+  * for loop i visa menyn, eftersom det är ett bestämt antal
+ 
+## Uppgift
+
+Nu ska du utöka funktionen för väskan, du kan hitta på något eget eller göra någon av följande.
+* Ta bort grejjer, list metoder.
+* Det ser lite trist ut, emojois? (win + .)
+  * Färger? https://www.geeksforgeeks.org/python/print-colors-python-terminal/
+*  Max antal, det kan vara 10 st eller att alla items har en vikt (weight limit)
+*  Skriv in flera saker och spara alla separat, "grej, moj, sak" blir 3 delar i listan. 
