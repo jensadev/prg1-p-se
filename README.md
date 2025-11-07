@@ -23,7 +23,7 @@ Du ska testa att använda någon sträng metod och någon list metod.
 
 Nu ska du utöka funktionen för väskan, du kan hitta på något eget eller göra någon av följande.
 * Ta bort saker, för det använder du list metoder.
- * Kan du ta bort genom att skriva namnet på en sak? använd "in" för att skapa ett villkor.
+ * Kan du ta bort genom att skriva namnet på en sak? Python har list metoder för detta. Men du kan också använd "in" för att skapa ett villkor. Läs mer om in i kapitel 6 (viktig sak att kunna!).
  * Skriver du ut en lista med alla saker med nummer och sedan väljer du ett nummer för att ta bort?
     * Bra för att öva på att jobba med index platser i en lista
 * Det ser lite trist ut, emojis? (win + .)
