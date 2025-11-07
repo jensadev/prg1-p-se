@@ -29,4 +29,6 @@ Nu ska du utöka funktionen för väskan, du kan hitta på något eget eller gö
 * Det ser lite trist ut, emojis? (win + .)
     * Färger? https://www.geeksforgeeks.org/python/print-colors-python-terminal/
 *  Max antal, det kan vara 10 st eller att alla items har en vikt (weight limit)
-*  Skriv in flera saker och spara alla separat, "grej, moj, sak" blir 3 delar i listan. 
+*  Skriv in flera saker och spara alla separat, "grej, moj, sak" blir 3 delar i listan.
+*  Sortera påsen.
+
